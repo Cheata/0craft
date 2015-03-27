@@ -1,0 +1,9 @@
+{
+  "name": "0craft",
+  "version": "1.0.0",
+  "title": "0craft",
+  "author": "Cheata",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Remove Player Crafting and balance machine crafting to enforce an 0 crafting Chalange"
+}

@@ -1,0 +1,5 @@
+require("prototypes.entities")
+require("prototypes.recipes")
+require("prototypes.items")
+require("prototypes.categories.recipe-category")
+require("prototypes.base-override")
