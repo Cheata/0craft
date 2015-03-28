@@ -1,5 +1,5 @@
 --[[ Entities ]]--
-if data.raw["recipe"]["assembling-machine"] then
+if data.raw["recipe"]["assembling-machine-4"] then
   table.insert(data.raw["assembling-machine"]["assembling-machine-4"].crafting_categories,"basic")
   table.insert(data.raw["assembling-machine"]["assembling-machine-5"].crafting_categories,"basic")
   table.insert(data.raw["assembling-machine"]["assembling-machine-6"].crafting_categories,"basic")
