@@ -67,7 +67,7 @@ data:extend(
       }
     },
     energy_usage = "90kW",
-    ingredient_count = 5,
+    ingredient_count = 6,
     open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
     close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
     working_sound =
